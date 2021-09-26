@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-CSS" height="60" width="60" src="https://img.icons8.com/nolan/64/wordpress.png">
   <img align="right" alt="Rafa-alberto" height="150" style="border-radius:60px;" src="https://i.imgur.com/h7jAk1o.png?width=676&height=676">
 </div>
   
