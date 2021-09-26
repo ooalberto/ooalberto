@@ -45,3 +45,5 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/ooalberto/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg)
  
 </div>
+ 
+ <a href="https://www.schoolofnet.com/portfolio/alberto-soares-soares-2346/"  target="_blank" >Portifólio / Certificados 📚🥇</a>
