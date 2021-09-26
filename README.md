@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Php" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Rafa-Codeigniter" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg">
+  <img align="center" alt="Rafa-Codeigniter" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg">
   <img align="center" alt="Rafa-Laravel" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Rafa-sql" height="60" width="60" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">
   <img align="center" alt="Rafa-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
