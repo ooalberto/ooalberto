@@ -46,4 +46,4 @@ Here are some ideas to get you started:
  
 </div>
  
- <a href="https://www.schoolofnet.com/portfolio/alberto-soares-soares-2346/" target="_blank">Portifólio / Certificados 📚🥇</a>
+ <a target="_blank" href="https://www.schoolofnet.com/portfolio/alberto-soares-soares-2346/">Portifólio / Certificados 📚🥇</a>
