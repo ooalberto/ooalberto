@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-## Oiii! Eu sou a Alberto Moreira 👋
+## Oiii! Eu sou a Alberto Moreira 👨‍💼
  <div>
 <div align="center">
   <a href="https://github.com/ooalberto">
